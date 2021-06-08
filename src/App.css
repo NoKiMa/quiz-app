@@ -39,3 +39,7 @@
 input[type='radio']:after{
   background-color: hsl(30, 61%, 51%)
 }
+
+.form label {
+  display: block;
+}
