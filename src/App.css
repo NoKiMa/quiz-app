@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+input[type='radio']:after{
+  background-color: hsl(30, 61%, 51%)
+}
